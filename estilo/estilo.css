@@ -1,0 +1,21 @@
+
+p {
+    color: darkblue;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 32px;
+    border: 2px solid darkblue;
+    text-align: center;
+    background-color: lightyellow;
+}
+
+h2 {
+    font-size: 24px;
+    color: darkgreen;
+}
+
+ul {
+    list-style-type: circle;
+}
